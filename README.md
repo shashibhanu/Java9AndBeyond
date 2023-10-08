@@ -82,6 +82,9 @@ switch expressions and pattern matching (preview Only)
 
 Text blocks (Already Discussed in Java 15)
 
+# Java 20
+*******************************************************
+Virtual Thread using CompletableFuture
 
 # Java 21
 *******************************************************
